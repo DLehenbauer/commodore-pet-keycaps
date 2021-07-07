@@ -8,7 +8,7 @@ The keycaps are stylistically modeled after the chicklet keyboard of the origina
 
 ## Hardware
 Keycaps will work with any mechanical keyboard meeting the following requirements:
-* Mechanical keyboard using Cherry MX compatible switches.
+* Cherry MX compatible switches
 * ANSI 104-key layout.
 * 6.25x spacebar (has 7 equally sized OS/meta keys on the bottom row)
 
