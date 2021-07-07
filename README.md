@@ -7,11 +7,12 @@ These keycaps are part of a father/son project to breadboard a homebrew implemen
 The keycaps are stylistically modeled after the chicklet keyboard of the original [Commodore PET 2001](https://en.wikipedia.org/wiki/Commodore_PET) 8-bit computer.
 
 ## Hardware
-I paired the keycaps with the inexpensive [Velocifire VM02WS](https://smile.amazon.com/gp/product/B08L8QSTLY) keyboard, but there are many options.  The requirements are:
-
+Keycaps will work with any mechanical keyboard meeting the following requirements:
 * Mechanical keyboard using Cherry MX compatible switches.
 * ANSI 104-key layout.
 * 6.25x spacebar (has 7 equally sized OS/meta keys on the bottom row)
+
+I used the [Velocifire VM02WS](https://smile.amazon.com/gp/product/B08L8QSTLY) keyboard.  (Note that the Velocifire has backlit keys, but these keycaps are opaque.)
 
 ## Ordering
 **Important**: The print color of the keycaps is determined by the *.svg file, not the web editor.  If you choose a different color scheme for the keycap plastic, please also modify the colors in the SVG file to avoid "black-on-black" or "white-on-white".
