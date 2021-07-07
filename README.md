@@ -39,7 +39,7 @@ I paired the keycaps with the inexpensive [Velocifire VM02WS](https://smile.amaz
             
 ![Keycap Colors](https://github.com/DLehenbauer/commodore-pet-keycaps/blob/main/MaxKeyboard/Keycap-Colors.png)
 
-## Links
+## Related Projects
 * [CBM-MX-Keyboards](https://github.com/sjgray/CBM-MX-Keyboards)
 
 ## Acknowledgements
