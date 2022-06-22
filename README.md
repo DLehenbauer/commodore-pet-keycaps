@@ -2,9 +2,9 @@
 A custom keycap set modeled after the chicklet keyboard of the original [Commodore PET 2001](https://en.wikipedia.org/wiki/Commodore_PET) 8-bit computer.
 
 ## About
-These keycaps are part of a father/son project to homebrew Commodore PET.
+These keycaps are part of a father/son project to build a [homebrew clone](https://github.com/DLehenbauer/commodore-pet-clone) of the Commodore PET.
 
-Possibly these keycaps may be of interest to users of the [xPet VICE emulator](https://vice-emu.sourceforge.io/) with the US Graphic Positional layout.
+Possibly these are also of interest to users of the [xPet VICE emulator](https://vice-emu.sourceforge.io/) with the 'US Graphic Positional' layout.
 
 ## Hardware
 Keycaps will work with any mechanical keyboard meeting the following requirements:
