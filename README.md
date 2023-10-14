@@ -6,6 +6,8 @@ These keycaps are part of a father/son project to build a [homebrew clone](https
 
 Possibly these are also of interest to users of the [xPet VICE emulator](https://vice-emu.sourceforge.io/) with the 'US Graphic Positional' layout.
 
+[![finished image](assets/finished-preview.jpg)](assets/finished-full.jpg)
+
 ## Hardware
 Keycaps will work with any mechanical keyboard meeting the following requirements:
 * Cherry MX compatible switches
