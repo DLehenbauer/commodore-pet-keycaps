@@ -4,7 +4,7 @@ A custom keycap set modeled after the chicklet keyboard of the original [Commodo
 ## About
 These keycaps are part of a father/son project to build a [homebrew clone](https://github.com/DLehenbauer/commodore-pet-clone) of the Commodore PET.
 
-Possibly these are also of interest to users of the [xPet VICE emulator](https://vice-emu.sourceforge.io/) with the 'US Graphic Positional' layout.
+Note that this key layout does not exactly match the 'US Graphic Positional' used by the [xPet VICE emulator](https://vice-emu.sourceforge.io/) (but could be tweaked to do so).
 
 [![finished image](assets/finished-preview.jpg)](assets/finished-full.jpg)
 
